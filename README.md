@@ -69,13 +69,6 @@ Arquitectura de microservicios políglota: **usuarios** y **reseñas** en Spring
 Sitio web temático sobre Susanoo, el dios de la mitología japonesa, y su presencia en el anime: historia, apariciones y galería de ilustraciones.
 `HTML` · `CSS` · `Diseño web`
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanSeb8778&show_icons=true&hide_border=true&theme=transparent&locale=es" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSeb8778&layout=compact&hide_border=true&theme=transparent&locale=es" alt="Lenguajes más usados">
-</p>
-
 ---
 
 <p align="center"><i>¿Tienes un proyecto o una oportunidad? ¡Escríbeme! 📬</i></p>
