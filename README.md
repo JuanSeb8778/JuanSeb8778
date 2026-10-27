@@ -61,7 +61,7 @@ Diseño y desarrollo de sitios web para clientes, con foco en interfaces limpias
 
 ## 🚀 Proyectos destacados
 
-### 🎬 [Peliculiando — plataforma de películas con microservicios](https://github.com/JuanSeb8778/proyectoPeliculasMicroservicios)
+### 🎬 [ReelHub — plataforma de películas con microservicios](https://github.com/JuanSeb8778/proyectoPeliculasMicroservicios)
 Arquitectura de microservicios políglota: **usuarios** y **reseñas** en Spring Boot, **catálogo** y **listas personales** en Node.js/Express, y un **agente de IA con Google Gemini** que consulta el catálogo mediante **MCP**, con chat en React.
 `Java` · `Spring Boot` · `Node.js` · `Python` · `FastAPI` · `React` · `Gemini` · `MCP` · `Swagger`
 
